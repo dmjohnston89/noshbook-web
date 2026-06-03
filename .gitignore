@@ -1,0 +1,9 @@
+# Cloudflare Wrangler local state/cache
+.wrangler/
+
+# Dependencies
+node_modules/
+
+# Logs / OS cruft
+*.log
+.DS_Store
